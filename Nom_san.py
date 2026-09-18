@@ -36,7 +36,7 @@ def zeel_unshih(fail):
         pass  # file baihgui bol shineer uusgene
     return nom_unshih(fail)
 
-# om_haruulah(nomuud)
+# nom_haruulah(nomuud)
 
 def nom_haruulah(nomuud):
     dugaar = 1
@@ -186,11 +186,13 @@ def ajilluulah():
             nom_haruulah(nomuud)
  
         elif songolt == "2":
+            dugaar = 1
             angilal = input("Ангилал (uran / shinjleh / huuhed): ").strip()
             neruud = angilaltai(nomuud, angilal)
             if neruud:
                 for ner in neruud:
-                    print(" -", ner)
+                    print(f"{dugaar}. ", ner)
+                    dugaar += 1
             else:
                 print("Ийм ангилал алга.")
  
