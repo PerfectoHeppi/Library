@@ -1,5 +1,4 @@
 A Brief History of Time,Stephen Hawking,8000
-Charlotte's Web,E.B. White,3000
 Pride and Prejudice,Jane Austen,6000
 The Elements of Chemistry,Antoine Lavoisier,7000
 Cosmos,Carl Sagan,9000
@@ -7,3 +6,5 @@ The Little Prince,Antoine de Saint-Exupery,4000
 Sapiens,Yuval Noah Harari,10000
 Hello World Python,Hannah Montana,4000
 Remember me,Dalodo Neteri,5000
+Project Hail Mary,Andy Weir,9000
+Scythe,Neal Shusterman,8000
